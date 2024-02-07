@@ -5,8 +5,8 @@
 </div> 
 
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h2 align="left">Skills 🔥</h2>
+  <div style="flex-basis: 48%; align="center" display="flex"">
+    <h2>Skills 🔥</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
